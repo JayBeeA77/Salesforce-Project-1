@@ -1,4 +1,4 @@
-# Salesforce-Project-1
+# Salesforce-Project-1-Part1
 This repository contains an apex class that contains 5 methods. There is also a test class to ensure all the methods work the right way.
 
 # Methods:
